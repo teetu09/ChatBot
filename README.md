@@ -27,9 +27,7 @@ Our project is an **empathetic AI-powered wellness buddy** that:
 - **Database:** Firebase / MongoDB  
 
 ## 🚀 Demo
-- *[Add screenshots of your chatbot and mood tracker here]*  
-- *[Upload your pitch deck in /assets and link it here]*  
-- (Optional: add live demo link if deployed)  
+<img width="1532" height="962" alt="Screenshot 2025-09-27 033224" src="https://github.com/user-attachments/assets/2f9fc3b2-9242-4c71-8a14-25cfad4b6b67" />
 
 ## 👥 Team - MERGE CONFLICTS
 - **Tanishq Chaudhary** (Team Leader)  
