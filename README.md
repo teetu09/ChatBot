@@ -33,6 +33,8 @@ Our project is an **empathetic AI-powered wellness buddy** that:
 
 ## 🚀 Demo
 <img width="1532" height="962" alt="Screenshot 2025-09-27 033224" src="https://github.com/user-attachments/assets/2f9fc3b2-9242-4c71-8a14-25cfad4b6b67" />
+<img width="1538" height="877" alt="Screenshot 2025-09-27 060823" src="https://github.com/user-attachments/assets/3ecb5c6d-e667-4222-a675-e27978998e8f" />
+
 
 ## 👥 Team - MERGE CONFLICTS
 - **Tanishq Chaudhary** (Team Leader)  
